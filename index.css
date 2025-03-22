@@ -1,19 +1,19 @@
 h1{
     text-align: center;
-    color: rgb(5, 5, 5);
+    color: rgb(255, 255, 255);
     font-size: 30;
-    background-color: lightblue;
+    background-color: rgb(14, 58, 73);
 }
 
 body{
-    background-color: gray;
+    background-color: rgb(247, 241, 241);
     padding: 10px 20px;
    
 
 }
 
 .div2{
-    background: white;
+    background: rgba(255, 255, 255, 0.945);
     justify-content: center;
     text-align: center;
     border: 1px solid;
@@ -54,8 +54,9 @@ img{
  
 }
 p{
-    text-align: justify;
+    text-align: left;
     font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
     border-color: black;
     border-bottom-style: solid;
     padding-left: 20px;
@@ -123,6 +124,7 @@ footer{
     width: 600PX;
     margin: auto;
     margin-bottom: 20px;
+    
 }
 .div6{
     background: white;
@@ -132,6 +134,7 @@ footer{
     width: 600PX;
     margin: auto;
     margin-bottom: 20px;
+
 }
 footer {
     background: linear-gradient(45deg, #1e1e1e, #333);
